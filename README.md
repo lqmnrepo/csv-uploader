@@ -23,8 +23,8 @@ A Laravel application that allows users to upload and process CSV files in the b
 ## Setup Instructions
 
 1. Clone the repository
-    git clone https://github.com/lqmnrepo/csv-uploader.git/
-    cd csv-uploader
+1.1 git clone https://github.com/lqmnrepo/csv-uploader.git/
+1.2 cd csv-uploader
 
 2. Install PHP dependencies
     composer install
